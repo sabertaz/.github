@@ -52,7 +52,7 @@ I have verified these changes via:
 
 <!--
   Do you have any suggestions about this PR template?
-  Edit it here: https://github.com/sabertazimi/.github/edit/main/.github/PULL_REQUEST_TEMPLATE.md
+  Edit it here: https://github.com/sabertaz/.github/edit/main/.github/PULL_REQUEST_TEMPLATE.md
 -->
 
 <!--

@@ -4,7 +4,7 @@
   "packageManager": "pnpm@11.15.1",
   "author": "sabertazimi <sabertazimi@gmail.com>",
   "license": "MIT",
-  "repository": "https://github.com/sabertazimi/.github",
+  "repository": "https://github.com/sabertaz/.github",
   "scripts": {
     "changeset": "commit-and-tag-version --dry-run -s",
     "release": "commit-and-tag-version -s",
