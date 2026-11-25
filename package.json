@@ -11,6 +11,6 @@
     "build": "echo Building work."
   },
   "devDependencies": {
-    "commit-and-tag-version": "^13.0.0"
+    "commit-and-tag-version": "^13.3.0"
   }
 }
