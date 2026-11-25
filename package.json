@@ -1,8 +1,8 @@
 {
-  "name": "@sabertazimi/github",
+  "name": "@sabertaz/github",
   "version": "1.1.1",
   "packageManager": "pnpm@11.15.1",
-  "author": "sabertazimi <sabertazimi@gmail.com>",
+  "author": "sabertaz <sabertazimi@gmail.com>",
   "license": "MIT",
   "repository": "https://github.com/sabertaz/.github",
   "scripts": {
