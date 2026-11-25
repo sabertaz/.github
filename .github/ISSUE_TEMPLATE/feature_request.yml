@@ -4,7 +4,7 @@ labels:
   - enhancement
   - feature
   - 'todo :spiral_notepad:'
-assignees: sabertazimi
+assignees: sabertaz
 body:
   - type: markdown
     attributes:

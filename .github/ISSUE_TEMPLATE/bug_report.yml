@@ -3,7 +3,7 @@ description: Create a report to help us improve
 labels:
   - bug
   - 'todo :spiral_notepad:'
-assignees: sabertazimi
+assignees: sabertaz
 body:
   - type: markdown
     attributes:

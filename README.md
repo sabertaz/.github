@@ -1,6 +1,6 @@
 # .github
 
-Community health files for the @sabertazimi repositories.
+Community health files for the @sabertaz repositories.
 
 For more information,
 please see the article on
